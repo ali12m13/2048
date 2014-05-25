@@ -11,4 +11,4 @@ $ git clone https://github.com/ali12m13/2048.git
 
 $ cd 2048
 
-$ python 2048.py
+$ python 2048_n.py
